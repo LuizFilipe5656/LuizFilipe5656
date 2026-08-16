@@ -91,13 +91,13 @@ const luiz = {
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=LuizFilipe5656&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 
 <img
  height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=tokyonight"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilipe5656&layout=compact&hide_border=true&theme=tokyonight"
  alt="Top Languages"
 />
 
@@ -105,7 +105,7 @@ const luiz = {
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LuizFilipe5656&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -166,7 +166,7 @@ Tenho interesse especial em projetos que envolvam:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/LuizFilipe5656/LuizFilipe5656/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
